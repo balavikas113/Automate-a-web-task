@@ -1,0 +1,26 @@
+2025-06-26 11:19:33,244:INFO:Opening Instagram
+2025-06-26 11:19:34,878:INFO:Logging in
+2025-06-26 11:19:45,387:INFO:An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75bc1cda5+78885]
+	GetHandleVerifier [0x0x7ff75bc1ce00+78976]
+	(No symbol) [0x0x7ff75b9d9bca]
+	(No symbol) [0x0x7ff75ba30766]
+	(No symbol) [0x0x7ff75ba30a1c]
+	(No symbol) [0x0x7ff75ba84467]
+	(No symbol) [0x0x7ff75ba58bcf]
+	(No symbol) [0x0x7ff75ba8122f]
+	(No symbol) [0x0x7ff75ba58963]
+	(No symbol) [0x0x7ff75ba216b1]
+	(No symbol) [0x0x7ff75ba22443]
+	GetHandleVerifier [0x0x7ff75bef4eed+3061101]
+	GetHandleVerifier [0x0x7ff75beef33d+3037629]
+	GetHandleVerifier [0x0x7ff75bf0e592+3165202]
+	GetHandleVerifier [0x0x7ff75bc3730e+186766]
+	GetHandleVerifier [0x0x7ff75bc3eb3f+217535]
+	GetHandleVerifier [0x0x7ff75bc259b4+114740]
+	GetHandleVerifier [0x0x7ff75bc25b69+115177]
+	GetHandleVerifier [0x0x7ff75bc0c368+10728]
+	BaseThreadInitThunk [0x0x7ffb2142e8d7+23]
+	RtlUserThreadStart [0x0x7ffb22c3c34c+44]
+
