@@ -13,7 +13,11 @@ This script automates logging into Instagram using a dummy account, searching fo
 ## demo video
 
 
-https://github.com/user-attachments/assets/845bf765-6d75-4f10-9df4-ba7f97674f5d
+
+
+
+https://github.com/user-attachments/assets/751d811e-0c4e-4460-ab77-cbbee971ceb3
+
 
 
 
